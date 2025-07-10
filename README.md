@@ -8,7 +8,7 @@ Bu proje, R programı kullanılarak çeşitli ANOVA yöntemleri ve deney tasarı
 
 ## Kullanılan Araçlar ve Yöntemler / Tools and Methods
 
-- **R Programı  /  R Programming Language
+- R Programı  /  R Programming Language
 
 - Tek Yönlü ANOVA  /  One-Way ANOVA
 
